@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Manajemen Omset & Hutang",
+  "description": "Aplikasi untuk mengelola omset harian, pengeluaran, dan hutang sales PT/CV dengan perhitungan profit tahunan.",
+  "requestFramePermissions": []
+}
